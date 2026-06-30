@@ -21,6 +21,8 @@ FatPandas is an Android-based food ordering application developed using Java in 
 - Android Studio
 - SQLite
 - XML
+- API
+
 
 ## Project Structure
 
